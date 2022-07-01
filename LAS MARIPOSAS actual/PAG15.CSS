@@ -1,0 +1,30 @@
+body {
+     background-attachment:fixed;
+     }
+
+
+h1{
+    color:black;
+    font-size:40px; 
+    text-align:center;
+    }
+
+p{
+    background-color:#f8ead9; 
+    color:black; 
+    width: 1250px; 
+    border: 2px solid white; 
+    font-size:30px; 
+    text-align:justify; 
+    padding:10px; 
+    margin:10px; 
+    animation: mymove 2.5s infinite; 
+    }
+
+ @keyframes mymove{
+                        50%
+                        {box-shadow: 10px 20px
+
+                        30px PINK;}
+
+                       }
